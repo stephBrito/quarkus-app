@@ -5,7 +5,7 @@ API para consultar cotação da moeda americana dólar, utilizando um campo de d
 e consulta-las posteriormente.
 
 
-## Ferramentas usadas
+## Ferramentas utilizadas
 JAVA Quarkus e Maven foram as principais ferramentas usadas na construção desta API.
 - Hibernate e JPA para conexão com o PostgreDB, usado para persistência dos dados das informações.
 - IDE utilizada foi o IntelliJ.
